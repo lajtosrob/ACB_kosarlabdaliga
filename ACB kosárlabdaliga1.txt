@@ -1,0 +1,76 @@
+ 
+
+ 
+
+KORLATOZOTT TERJESZTESU! 1. sz. példany
+
+ 
+
+ 
+
+ 
+
+ 
+
+T5421305/A
+
+3. feladat Osszesen: 40 pont
+
+Programozás (C# LINQ)
+ACB kosarlabdaliga 2004-2005%
+
+A következő feladatban a spanyol ACB liga 2004-2005-6s idényének mérkőzéseit
+tartalmazé szöveges állományból kell adatokat kinyernie.
+A megoldás során vegye figyelembe a következőket:
+o A képernyőre irást igénylő részfeladatok eredményének megjelenitése előtt irja a
+képernyőre a feladat sorszámdát (például: 3. feladat:)!
+o Az egyes feladatokban a kiirásokat a minta szerint készitse el!
+® Az ékezetmentes azonosítók és kiírások is elfogadottak.
+s A program megirásakor az állomdnyban lévő adatok helyes szerkezetét nem kell
+ellenőriznie, feltételezheti, hogy a rendelkezésre álló adatok a leirtaknak
+megfelelnek.
+
+o Megoldását úgy készitse el, hogy az azonos szerkezetű, de tetszőleges bemeneti
+adatok mellett is helyes eredményt adjon!
+
+Az eredmények.csv UTF-8 kódolasú forrásállomány soraiban a kovetkező
+sorrendben találja meg az adatokat:
+
+a hazai csapat neve (hazai), például: Gran Canaria
+
+az idegen csapat neve (idegen), például: Real Madrid
+
+a hazai csapat által szerzett pontok (hazai_pont}, például: 54
+
+az idegen csapat altal szerzett pontok (idegen_pont), például: 79
+
+a mérkőzés helyszine (helyszin): például: Centro Insular De Deportes
+
+a mérkőzés időpontja (időpont): például: 2004-10-17
+Az állomány első sora a mezőneveket tartalmazza, az adatokat pontosvesszővel
+választottuk el.
+
+1. Készitsen konzolalkalmazást (projektet) a kovetkező feladatok megoldásához,
+amelynek forráskódját kosar2004 néven mentse el!
+
+2. Olvassa be az eredmenyek.csv állomany sorait és tárolja az adatokat egy olyan
+összetett adatszerkezetben (pl. vektor, lista stb.), amely használatával a további
+feladatok megoldhatok! Ügyeljen arra, hogy az állomény első sora az adatok fejlécét
+tartalmazza!
+
+3. Határozza meg és irja ki a képernyőre a minta szerint, hogy a Real Madrid hány
+mérkőzést jatszott hazai, illetve idegen csapatként!
+
+4. Határozza meg és irja ki a minta szerint, hogy volt-e döntetlen mérk6zés!
+
+Források: Kaggle, Wikipédia
+
+ 
+
+ 
+
+KORLATOZOTT TERJESZTESU!
+T 8/9
+
+ 
+
